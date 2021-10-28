@@ -1,2 +1,2 @@
 # complete-intro-to-databases
-Data Base Implementation Practices - Aug 2021
+Database Implementation Practices - Aug 2021
